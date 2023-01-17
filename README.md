@@ -26,8 +26,9 @@
 ![3_after](https://user-images.githubusercontent.com/39296971/212951178-d550857f-4ed2-4252-97ea-c29188670eaf.jpg)
 
 
+4. //Создайте прототип низкой детализации сайта https://dzen.ru/ с помощью сайта https://wireframe.cc/. Предоставьте скриншот того, что получилось (скриншот должен быть назван 4_proto.jpg).//
+
+![4_proto](https://user-images.githubusercontent.com/39296971/213010843-9422d857-c3db-44e4-b9ee-e4d4d84ab17f.jpg)
 
 
-
-4. Создайте прототип низкой детализации сайта https://dzen.ru/ с помощью сайта https://wireframe.cc/. Предоставьте скриншот того, что получилось (скриншот должен быть назван 4_proto.jpg).
 
